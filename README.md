@@ -26,6 +26,9 @@
 | [MTData](https://mtdata.com.au/about/#about-mtdata)           |       ✅     | Software Development - IoT/Telematics             | UG, PG      | https://www.mtdata.com.au             | [📚](https://mtdata.com.au/about/#careers) |
 | [Linfox](https://www.linfox.com/about/)        |      ⛔️      | Supply Chain, Logistics and Transport             | UG, PG      | https://www.linfox.com/careers/                           | [🚛](https://www.linfox.com/careers/current-job-vacancies-australia/) |
 | [eSolutions](https://www.monash.edu/esolutions/about-us)    |      ✅      |                                                   |             |                                                   | [🙃](https://www.monash.edu/students/new) |
+| [Google](https://about.google/intl/en/)        |      ✅      | Technology | UG, PG, HDR, PHD | https://careers.google.com/| [☕](https://careers.google.com/jobs/results/?degree=BACHELORS&location=Sydney,%20Australia) |
+| [Canva](https://about.canva.com/)        |      ✅      | Technology | UG | https://www.canva.com/careers/| [🎨](https://www.canva.com/careers/engineering/) |
+
 
 </br>
 
